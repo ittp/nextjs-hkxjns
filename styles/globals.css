@@ -1,0 +1,22 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.govLogo {
+  background: url('https://www.gov.spb.ru/static/2/files/logo.2cc00c1e.6826b6aa2472.svg')
+    no-repeat center center / fixed;
+  width: 100px;
+}
